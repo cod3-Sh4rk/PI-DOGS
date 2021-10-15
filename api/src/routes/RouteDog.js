@@ -23,7 +23,7 @@ const { Dog, Temperament} = require("../db");
             height,
             weight,
             life_span,
-            id,
+            
             temperament,
             createdInDb
 
@@ -34,7 +34,7 @@ const { Dog, Temperament} = require("../db");
             height,
             weight,
             life_span,
-            id,
+            
             createdInDb
 
     })
